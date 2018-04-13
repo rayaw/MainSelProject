@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26961" started-at="2018-04-13T00:14:57Z" finished-at="2018-04-13T00:15:24Z">
+  <suite name="Default suite" duration-ms="19052" started-at="2018-04-13T02:40:56Z" finished-at="2018-04-13T02:41:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26961" started-at="2018-04-13T00:14:57Z" finished-at="2018-04-13T00:15:24Z">
+    <test name="Default test" duration-ms="19052" started-at="2018-04-13T02:40:56Z" finished-at="2018-04-13T02:41:15Z">
       <class name="PackOne.TC_chrome">
-        <test-method status="PASS" signature="TC1()[pri:0, instance:PackOne.TC_chrome@7113b13f]" name="TC1" duration-ms="26940" started-at="2018-04-12T20:14:57Z" finished-at="2018-04-12T20:15:24Z">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:PackOne.TC_chrome@7113b13f]" name="TC1" duration-ms="19035" started-at="2018-04-12T22:40:56Z" finished-at="2018-04-12T22:41:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1 -->
